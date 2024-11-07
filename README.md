@@ -1,9 +1,9 @@
 # KANT : Kms lab ANnotation Tool
 
 <p align='center'>
-    ![그림1](https://github.com/user-attachments/assets/ce6b2e64-529d-41b7-8d80-ff23170534ca)
-
+    <img src="https://github.com/user-attachments/assets/ce6b2e64-529d-41b7-8d80-ff23170534ca" alt="그림1">
 </p>
+
 
 
 ## Introduction
