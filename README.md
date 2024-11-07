@@ -7,7 +7,8 @@
 
 
 ## Introduction
-We provide Annotation Tool for CrowdPose dataset. 
+This repository provides a collection of tools for editing and creating CrowdPose-style datasets. 
+It is specialized for handling images in crowd scenarios, allowing easy modification and utilization of existing CrowdPose data.
 
 
 ## Code
