@@ -1,4 +1,4 @@
-# KANT : Kms lab ANnotation Tool
+# HuPo AnT : INHA KMS HumanPose Annotation Tool
 
 <p align='center'>
     <img src="https://github.com/user-attachments/assets/ce6b2e64-529d-41b7-8d80-ff23170534ca" alt="그림1">
@@ -7,31 +7,36 @@
 
 
 ## Introduction
-This repository provides a collection of tools for editing and creating CrowdPose style datasets. <br>
-It is specialized for handling images in crowd scenarios, allowing easy modification and utilization of existing CrowdPose data.
+INHA KMS's HuPo AnT is a tool designed for generating and verifying ground truth (GT) data by annotating key points for human pose recognition in crowd scenarios. <br>
+It adheres to the CrowdPose dataset format, supporting multiple annotators to work on the same input video simultaneously. <br>
+This tool enables the creation of filtered datasets for various research purposes.
 
 
 ### Capabilities
 
-- 제공되는 기능에 대해 나열합니다.
-  - 예: Load and visualize a COCO style dataset
-  - 예: Edit Class Labels
-  - 예: Edit Bounding Boxes
-  - 예: Edit Keypoints
-  - 예: Export a COCO style dataset
-  - 예: Bounding Box Tasks for Amazon Mechanical Turk
-
-### Not Implemented
-
-- 아직 구현되지 않은 기능 목록을 작성합니다.
-  - 예: Edit Segmentations
-  - 예: Keypoint tasks for Amazon Mechanical Turk
-  - 예: Class label tasks for Amazon Mechanical Turk
-  - 예: Segmentation tasks for Amazon Mechanical Turk
+- Load and visualize a Crowd style dataset
+- Add/Delete/Edit Bounding Boxes
+- Add/Delete/Edit Keypoints
+- Remove iscrowd box
+- Calculate crowdindex
+- Save images with applied filtering (keypoints, crowdindex, objects, boxsize)
 
 
-## Code
- 
+## Environmnet
+
+
+## Usage
+Clone the repo:
+$ git clone https://github.com/visipedia/annotation_tools.git
+
+ - window
+    Run by clicking the main.exe file
+   
+ - MacOS & Linux
+    Execute the following commands in the terminal
+    ```
+    $ cd updatedTool
+    $ python3 main.py ```
 
 ## Dataset
 
