@@ -1,7 +1,7 @@
 # KANT : Kms lab ANnotation Tool
 
 <p align='center'>
-    ![image](https://github.com/user-attachments/assets/350b7bc3-ced5-4f27-951d-3e4fcb1a3970)
+    ![image](https://github.com/user-attachments/assets/850071c5-819f-4572-98f5-5bc53c547162)
 </p>
 
 
