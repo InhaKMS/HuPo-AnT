@@ -26,16 +26,13 @@ This tool enables the creation of filtered datasets for various research purpose
 
 
 ## Usage
-Clone the repo:
-<br>
+Clone the repo:  
 `$ git clone https://github.com/visipedia/annotation_tools.git`
 
- - Window
-<br>
+ - Window  
     Run by clicking the main.exe file
    
- - MacOS & Linux
-<br>
+ - MacOS & Linux  
     Execute the following commands in the terminal
     ```
     $ cd updatedTool
