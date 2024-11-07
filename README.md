@@ -7,9 +7,11 @@
 
 
 ## Introduction
+We provide Annotation Tool for CrowdPose dataset. 
+
 
 ## Code
-We provide [evaluation tools](crowdpose-api) for CrowdPose dataset. Our evaluation tools is developed based on [@cocodataset/cocoapi](https://github.com/cocodataset/cocoapi). The source code of our model has been integrated into [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose/tree/pytorch).
+ 
 
 ## Dataset
 
