@@ -27,7 +27,7 @@ This tool enables the creation of filtered datasets for various research purpose
 
 ## Usage
 Clone the repo:  
-```$ git clone https://github.com/visipedia/annotation_tools.git```
+```$ git clone https://github.com/InhaKMS/HuPo-AnT```
 
  - Window  
     Run by clicking the main.exe file
@@ -38,6 +38,9 @@ Clone the repo:
     $ cd updatedTool
     $ python3 main.py
     ```
+
+Please refer to the manual below for detailed instructions on using the Annotation Tool.
+
 
 ## Dataset
 
