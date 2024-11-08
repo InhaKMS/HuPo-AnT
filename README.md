@@ -25,6 +25,7 @@ This tool enables the creation of filtered datasets for various research purpose
 
 ## Environmnet
 ```
+Python 3.8.10
 numpy==1.24.4
 Pillow==10.2.0
 PyQt5==5.15.10
