@@ -37,7 +37,7 @@ Clone the repo:
 ```$ git clone https://github.com/InhaKMS/HuPo-AnT```
 
  - Window  
-   [Annotation Tool for Window](https://drive.google.com/file/d/1BcSmCznT5tKi8IChe9eAQczTs-E7fNxp/view?usp=share_link) (Google Drive)
+   [Annotation Tool for Window](https://drive.google.com/file/d/1gKkGcrUaPh42uCqYqDqBlyxMTbKtOwjO/view?usp=sharing) (Google Drive)  
    1. Unzip the 'Annotation Tool for Window' folder  
    2. Run by clicking the main.exe file  
    
