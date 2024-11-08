@@ -40,7 +40,7 @@ Clone the repo:
    2. Run by clicking the main.exe file  
    
 
-Please refer to the manual below for detailed instructions on using the Annotation Tool.
+Please refer to the manual below for detailed instructions on using the Annotation Tool.  
 [Manual]() (Google Drive)
 
 
