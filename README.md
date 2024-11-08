@@ -54,4 +54,4 @@ Please refer to the manual below for detailed instructions on using the Annotati
 
 
 ## Contributors
-HuPo-AnT is authored by [Jinwoo Cha](https://github.com/startedourmission), [Chulyoung Kim](chulsub0727@gmail.com), [Dajeong Seo](https://github.com/ddaisyaa), [Hyunjong Oh](https://github.com/jong001029), [Jongseong Park](https://github.com/ParkJongSeong93), and [Yoo-sung Kim]().
+HuPo-AnT is authored by [Jinwoo Cha](https://github.com/startedourmission), [Chulyoung Kim](chulsub0727@gmail.com), [Dajeong Seo](https://github.com/ddaisyaa), [Hyunjong Oh](https://github.com/jong001029), [Jongseong Park](https://github.com/ParkJongSeong93), and [Yoo-sung Kim](yskim@inha.ac.kr).
