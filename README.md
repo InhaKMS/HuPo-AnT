@@ -1,4 +1,4 @@
-# HuPo AnT : INHA KMS HumanPose Annotation Tool
+# HuPo AnT : HumanPose Annotation Tool by INHA KMS  
 
 <p align='center'>
     <img src="https://github.com/user-attachments/assets/ce6b2e64-529d-41b7-8d80-ff23170534ca" alt="그림1">
@@ -31,9 +31,6 @@ This tool enables the creation of filtered datasets for various research purpose
 - PyQt5 5.15.10
 - Shapely 2.0.5
 
-```
-pip install -r requirements.txt
-```
 
 ## Usage
 Clone the repo:  
@@ -44,19 +41,13 @@ Clone the repo:
    1. Unzip the 'Annotation Tool for Window' folder  
    2. Run by clicking the main.exe file  
    
- - MacOS & Linux  
-    Execute the following commands in the terminal
-    ```
-    $ cd updatedTool
-    $ python3 main.py
-    ```
 
 Please refer to the manual below for detailed instructions on using the Annotation Tool.
 
 
 ## Dataset
 
-[Test image](https://drive.google.com/file/d/1aDGcgTgcxS7itMkxBy4rjfeahAdm6fEn/view?usp=sharing) (Google Drive)
+[CrowdPose Test Image](https://github.com/Jeff-sjtu/CrowdPose.git) (CrowdPose github link)
 
 [Annotations](https://drive.google.com/drive/folders/1TP_8ypQGAc0ab8MIWglJBqplhscvccUY?usp=share_link) (Google Drive)
 
