@@ -23,7 +23,12 @@ This tool enables the creation of filtered datasets for various research purpose
 
 
 ## Environmnet
-
+```
+numpy==1.24.4
+Pillow==10.2.0
+PyQt5==5.15.10
+Shapely==2.0.5
+```
 
 ## Usage
 Clone the repo:  
