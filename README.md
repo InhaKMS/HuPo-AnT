@@ -16,11 +16,9 @@ This tool enables the creation of filtered datasets for various research purpose
 
 - Load and visualize a Crowd style dataset
 - Add/Delete/Edit Bounding Boxes
-- Add/Delete/Edit Keypoints
-- Remove iscrowd box
+- Add/Delete/Edit Keypoints  
 - Calculate crowdindex
-- Save images with applied filtering (keypoints, crowdindex, objects, boxsize)
-- Heuristic segmentation
+- Save images with applied filtering (keypoints, crowdindex, objects, boxsize)  
 
 
 ## Environmnet
