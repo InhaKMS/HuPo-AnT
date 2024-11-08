@@ -559,9 +559,10 @@ class WindowClass(QMainWindow, Ui_MainWindow):
                         self.makeBox()
                         self.updateAnnotationView(idVar - 1)
 
-                        self.start_pos = None
-                        self.end_pos = None
-                        self.rect_item = None
+                        #[24.11.08 HJ] 키포인트와 박스 버튼 동시에 눌려있을 때 버그 생기는 부분 주석처리
+                        #self.start_pos = None
+                        #self.end_pos = None
+                        #self.rect_item = None
                         return False
 
             elif obj == self.graphicsView.viewport() and self.ModeChoice == 2:
