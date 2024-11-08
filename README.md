@@ -20,6 +20,7 @@ This tool enables the creation of filtered datasets for various research purpose
 - Remove iscrowd box
 - Calculate crowdindex
 - Save images with applied filtering (keypoints, crowdindex, objects, boxsize)
+- Heuristic segmentation
 
 
 ## Environmnet
