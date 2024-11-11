@@ -41,7 +41,7 @@ Clone the repo:
    
 
 Please refer to the manual below for detailed instructions on using the Annotation Tool.  
-[Manual](https://drive.google.com/file/d/1VfUCcyGzpyNJJn5UeoT7e4nmYX0HqMmX/view?usp=sharing) (Google Drive)
+[Manual](https://drive.google.com/file/d/1lW28HkYBILzu5C9rA45ZraReZ5uvBpmM/view?usp=sharing) (Google Drive)
 
 
 ## Dataset
