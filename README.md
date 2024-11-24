@@ -21,7 +21,7 @@ This tool enables the creation of filtered datasets for various research purpose
 - Save images with applied filtering (keypoints, crowdindex, objects, boxsize)  
 
 
-## Environmnet
+## Environment
 
 - Python 3.8.10
 - numpy 1.24.4
